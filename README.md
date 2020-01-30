@@ -37,4 +37,6 @@ Los plugins de informe se ejecutarán durante la generación del sitio y deben c
    * Parámetro: Pentangon :Successfully created a Pentagon with 5 sides.
    * Parámetro Hexagon :Successfully created a Hexagon with 6 sides.
 ## Entregar
-   * Investigue para qué sirve "gitignore" y cómo se usa. Para futuras entregas, debe estar configurado.
+   * Investigue para qué sirve "gitignore" y cómo se usa. Para futuras entregas, debe estar configurado. : Sirve para decirle a Git qué archivos o directorios completos debe ignorar y no subir al repositorio de código.
+
+Su implementación es muy sencilla, por lo que no hay motivo para no usarlo en cualquier proyecto y para cualquier nivel de conocimientos de Git que tenga el desarrollador. Únicamente se necesita crear un archivo especificando qué elementos se deben ignorar y, a partir de entonces, realizar el resto del proceso para trabajo con Git de manera habitual.
